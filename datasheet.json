@@ -1,0 +1,22 @@
+{
+  "motivation": {
+      "purpose": {
+        "question": "first question",
+        "answer": "first answer"
+      },
+      "creator": {
+        "question": "second question",
+        "answer": "second answer"
+      }
+  },
+  "composition": {
+    "instanceType": {
+      "question": "third question",
+      "answer": "third answer"
+    },
+    "instanceCount": {
+      "question": "fourth question",
+      "answer": "fourth answer"
+    }
+  }
+}
